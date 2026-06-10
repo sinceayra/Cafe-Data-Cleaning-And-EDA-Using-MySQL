@@ -21,8 +21,8 @@ This project aims to clean and analyze sales data to answer key business questio
 3. Dataset Description: The dataset contains transaction-level sales data from a cafe covering the period from January 2023 to December 2023. Each record represents an individual transaction and includes information about purchased items, quantity, spending amount, payment method, and transaction location.
 
 #Dataset Schema
-Column Name         Description
-Transaction ID      Unique identifier for each transaction
+Column Name            Description
+1. Transaction ID      Unique identifier for each transaction
 Item                Product purchased
 Quantity            Number of units sold
 Price Per Unit      Cost of a single item
