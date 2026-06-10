@@ -1,4 +1,4 @@
-# Messy Cafe Data Analysis & Exploratory Data Analysis (EDA) Using SQL
+# Cafe Sales Analysis Exploratory Data Analysis (EDA) Using SQL
 
 ## Project Overview
 
