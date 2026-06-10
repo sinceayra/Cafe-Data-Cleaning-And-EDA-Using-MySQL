@@ -19,25 +19,17 @@ This project aims to clean and analyze sales data to answer key business questio
 1. Dataset Name: Messy Cafe Data
 2. Source: Kaggle
 3. Dataset Description: The dataset contains transaction-level sales data from a cafe covering the period from January 2023 to December 2023. Each record represents an individual transaction and includes information about purchased items, quantity, spending amount, payment method, and transaction location.
-Dataset Schema
-Column Name
-Description
-Transaction ID
-Unique identifier for each transaction
-Item
-Product purchased
-Quantity
-Number of units sold
-Price Per Unit
-Cost of a single item
-Total Spent
-Total transaction value
-Payment Method
-Method used to complete payment
-Location
-Location where transaction occurred
-Transaction Date
-Date of transaction
+
+#Dataset Schema
+Column Name         Description
+Transaction ID      Unique identifier for each transaction
+Item                Product purchased
+Quantity            Number of units sold
+Price Per Unit      Cost of a single item
+Total Spent         Total transaction value
+Payment Method      Method used to complete payment
+Location            Location where transaction occurred
+Transaction Date    Date of transaction
 
 
 #Tools & Technologies
